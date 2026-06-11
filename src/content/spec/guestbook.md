@@ -1,9 +1,6 @@
 ---
 title: "留言板"
-description: "在这里留下你的足迹"
+description: "留言板"
 ---
 
-- 请保持友善和尊重，营造良好的交流氛围
-- 欢迎分享你的想法，也可以提出对网站的建议
-- 你的每一条留言都是对我最大的支持 ✨
-
+留言板功能已关闭。如需开启，请在 `src/config/siteConfig.ts` 中启用 `pages.guestbook` 并配置评论系统。
