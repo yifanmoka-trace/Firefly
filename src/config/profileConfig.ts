@@ -5,7 +5,7 @@ export const profileConfig: ProfileConfig = {
 
 	name: "一帆摩卡",
 
-	bio: "前端 / 全栈方向 · 持续学习与输出",
+	bio: "Qt / C++ 开发者 · 专注桌面应用开发",
 
 	links: [
 		{

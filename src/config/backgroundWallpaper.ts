@@ -1,8 +1,8 @@
 import type { BackgroundWallpaperConfig } from "@/types/backgroundWallpaper";
 
 export const backgroundWallpaper: BackgroundWallpaperConfig = {
-	// 纯色背景，简洁专业
-	mode: "none",
+	// 壁纸背景，深色科技感
+	mode: "wallpaper",
 	switchable: false,
 	src: {
 		desktop: "assets/images/DesktopWallpaper/d1.avif",
@@ -16,9 +16,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			title: "一帆摩卡",
 			titleSize: "3rem",
 			subtitle: [
-				"记录技术成长",
-				"分享项目实践",
-				"沉淀学习笔记",
+				"Qt / C++ 开发者",
+				"专注桌面应用开发",
+				"记录技术成长与项目实践",
 			],
 			subtitleSize: "1.25rem",
 			typewriter: {
