@@ -16,16 +16,16 @@ export const siteConfig: SiteConfig = {
 
 	// 站点描述
 	description:
-		"一帆摩卡的求职技术博客，专注 Qt/C++ 桌面应用开发，记录项目实践与技术笔记。",
+		"一帆摩卡的技术博客，记录学习笔记、项目实践与求职准备，分享前端与全栈开发经验。",
 
 	// 站点关键词
 	keywords: [
-		"一帆摩卡",
+		"一帆",
 		"yifanmoka",
 		"技术博客",
-		"Qt开发",
-		"C++",
-		"桌面应用",
+		"前端开发",
+		"全栈开发",
+		"求职",
 		"项目经验",
 		"学习笔记",
 	],
@@ -62,7 +62,7 @@ export const siteConfig: SiteConfig = {
 			type: "icon",
 			value: "material-symbols:terminal",
 		},
-		title: "一帆摩卡",
+		title: "一帆",
 		widthFull: false,
 		menuAlign: "center",
 		followTheme: true,

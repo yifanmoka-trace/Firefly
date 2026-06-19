@@ -1,10 +1,10 @@
 # 关于我
 
-你好，我是 **一帆摩卡**，一名 Qt/C++ 开发者。
+你好，我是 **一帆摩卡**，一名 Qt/C++和python 开发者。
 
 ## 技术方向
 
-- **核心语言**：C++（C++11/14/17）、Qt 框架
+- **核心语言**：C++（C++11/14/17）.python、Qt 框架
 - **UI 开发**：Qt Widgets、QSS 样式定制、自定义控件
 - **通信与数据**：串口通信、网络编程、Model/View 架构
 - **工程实践**：CMake 构建、Git 版本管理、代码规范
@@ -21,8 +21,8 @@
 
 ## 联系方式
 
-- GitHub：待补充
-- Email：待补充
+- GitHub：yifanmoka-trace
+- Email：yifanmoka@gmail.com
 
 ---
 

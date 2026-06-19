@@ -3,7 +3,7 @@ import type { AnnouncementConfig } from "../types/announcementConfig";
 export const announcementConfig: AnnouncementConfig = {
 	title: "欢迎",
 
-	content: "本站正在建设中，将陆续发布技术笔记、项目总结与求职相关分享。",
+	content: "这是一个技术项目记录的博客，记录了我在学习和工作中遇到的各种技术问题和解决方案，希望能对大家有所帮助！如有不足，敬请斧正。",
 
 	closable: true,
 
