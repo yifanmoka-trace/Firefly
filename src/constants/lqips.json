@@ -1,7 +1,6 @@
 {
   "src:assets/images/firefly.png": "72d3af9ee699aced93",
   "src:assets/images/cover.avif": "7c6f966a628a816e82",
-  "src:assets/images/avatar.avif": "dcd8d5d1cecabea9a9",
   "src:assets/images/MobileWallpaper/m6.avif": "a08eaac3abbfc7bdc8",
   "src:assets/images/MobileWallpaper/m5.avif": "af99aecab1c1d2c2cb",
   "src:assets/images/MobileWallpaper/m4.avif": "f0e1e2d4bfc7c2abc1",
@@ -16,5 +15,10 @@
   "src:assets/images/DesktopWallpaper/d1.avif": "8b9bb59ba6bae7d7dd",
   "public:assets/images/sponsor/wechat.png": "d5d5d5dad9d7dbd8cf",
   "public:assets/images/sponsor/alipay.png": "8ebbde91bedf93c0e0",
-  "public:assets/images/ad/ad1.webp": "a1b8b68a8e918c8f93"
+  "src:assets/images/blogtx.jpg": "bfb4a2c9bfadd5af70",
+  "src:assets/images/avatar.jpg": "bfb4a2c9bfadd5af70",
+  "public:assets/images/post/shili.png": "5b5d5e878a8b444c51",
+  "src:content/posts/project-file-scanner/images/ui-screenshot.png": "3030302929292c2c2c",
+  "src:content/posts/project-file-scanner/images/thread-model.png": "212020272727333333",
+  "src:content/posts/project-file-scanner/images/architecture.png": "292929313131383838"
 }

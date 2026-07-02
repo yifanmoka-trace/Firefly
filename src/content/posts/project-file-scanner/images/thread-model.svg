@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420">
+  <rect width="960" height="420" fill="#111827"/>
+  <text x="480" y="36" fill="#9ca3af" font-family="sans-serif" font-size="16" text-anchor="middle">`M����!���b	</text>
+  <rect x="60" y="70" width="200" height="280" rx="8" fill="#1f2937" stroke="#4b5563"/>
+  <text x="160" y="100" fill="#d1d5db" font-family="sans-serif" font-size="14" text-anchor="middle">dirQueue_</text>
+  <rect x="80" y="120" width="160" height="28" rx="4" fill="#374151"/>
+  <rect x="80" y="158" width="160" height="28" rx="4" fill="#374151"/>
+  <rect x="80" y="196" width="160" height="28" rx="4" fill="#374151"/>
+  <text x="160" y="260" fill="#6b7280" font-family="sans-serif" font-size="12" text-anchor="middle">pendingDirectories_</text>
+  <rect x="380" y="120" width="120" height="60" rx="8" fill="#065f46" stroke="#10b981"/>
+  <text x="440" y="155" fill="#6ee7b7" font-family="sans-serif" font-size="13" text-anchor="middle">Worker 1</text>
+  <rect x="380" y="210" width="120" height="60" rx="8" fill="#065f46" stroke="#10b981"/>
+  <text x="440" y="245" fill="#6ee7b7" font-family="sans-serif" font-size="13" text-anchor="middle">Worker 2</text>
+  <rect x="380" y="300" width="120" height="60" rx="8" fill="#065f46" stroke="#10b981"/>
+  <text x="440" y="335" fill="#6ee7b7" font-family="sans-serif" font-size="13" text-anchor="middle">Worker N</text>
+  <rect x="680" y="140" width="220" height="180" rx="8" fill="#1e3a5f" stroke="#3b82f6"/>
+  <text x="790" y="175" fill="#93c5fd" font-family="sans-serif" font-size="14" text-anchor="middle">ScanSummary</text>
+  <text x="790" y="210" fill="#60a5fa" font-family="monospace" font-size="12" text-anchor="middle">files[]</text>
+  <text x="790" y="240" fill="#60a5fa" font-family="monospace" font-size="12" text-anchor="middle">totalSize</text>
+  <path d="M260 180 L380 150" stroke="#6b7280" stroke-width="2" fill="none"/>
+  <path d="M260 200 L380 240" stroke="#6b7280" stroke-width="2" fill="none"/>
+  <path d="M260 220 L380 330" stroke="#6b7280" stroke-width="2" fill="none"/>
+  <path d="M500 150 L680 200" stroke="#6b7280" stroke-width="2" fill="none"/>
+  <path d="M500 240 L680 230" stroke="#6b7280" stroke-width="2" fill="none"/>
+  <path d="M500 330 L680 260" stroke="#6b7280" stroke-width="2" fill="none"/>
+</svg>

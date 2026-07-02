@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360">
+  <rect width="960" height="360" fill="#111827"/>
+  <text x="480" y="34" fill="#9ca3af" font-family="sans-serif" font-size="16" text-anchor="middle">FileScanner Layered Architecture</text>
+
+  <rect x="280" y="60" width="400" height="72" rx="10" fill="#312e81" stroke="#6366f1"/>
+  <text x="480" y="88" fill="#c7d2fe" font-family="sans-serif" font-size="15" text-anchor="middle">fileScanner (Qt App)</text>
+  <text x="480" y="112" fill="#a5b4fc" font-family="sans-serif" font-size="12" text-anchor="middle">MainWindow / Browse / Start / Stop / Progress / Results</text>
+
+  <path d="M480 132 L480 152" stroke="#6b7280" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="520" y="146" fill="#9ca3af" font-family="monospace" font-size="11">extern &quot;C&quot; API</text>
+
+  <rect x="240" y="160" width="480" height="92" rx="10" fill="#1e3a5f" stroke="#3b82f6"/>
+  <text x="480" y="188" fill="#93c5fd" font-family="sans-serif" font-size="15" text-anchor="middle">FileScannerDll</text>
+  <text x="480" y="212" fill="#60a5fa" font-family="monospace" font-size="12" text-anchor="middle">FileScannerApi (C handle + callbacks)</text>
+  <text x="480" y="234" fill="#60a5fa" font-family="monospace" font-size="12" text-anchor="middle">FileScannerEngine (worker pool + dir queue)</text>
+
+  <path d="M480 252 L480 272" stroke="#6b7280" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="520" y="266" fill="#9ca3af" font-family="monospace" font-size="11">Win32 API</text>
+
+  <rect x="300" y="280" width="360" height="56" rx="10" fill="#064e3b" stroke="#10b981"/>
+  <text x="480" y="314" fill="#6ee7b7" font-family="monospace" font-size="13" text-anchor="middle">FindFirstFileW / FindNextFileW / GetFileAttributesW</text>
+
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#6b7280"/>
+    </marker>
+  </defs>
+</svg>
